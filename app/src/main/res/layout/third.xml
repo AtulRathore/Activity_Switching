@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Third Activity"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:id="@+id/textView3"
         android:layout_gravity="center_horizontal"
         android:layout_alignParentTop="true"

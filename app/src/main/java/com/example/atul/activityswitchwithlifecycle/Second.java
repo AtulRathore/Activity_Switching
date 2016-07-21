@@ -31,8 +31,8 @@ public class Second extends AppCompatActivity implements View.OnClickListener {
     public void onClick(View view) {
         //if(view.getId()== checkBox){
             Intent s = new Intent(this,Third.class);
-           startActivity(s);
-        Toast.makeText(this, "Third", Toast.LENGTH_SHORT).show();
+            startActivity(s);
+            Toast.makeText(this, "Third", Toast.LENGTH_SHORT).show();
         //}
 
 
